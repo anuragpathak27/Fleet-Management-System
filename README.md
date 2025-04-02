@@ -35,9 +35,3 @@ A real-time Pygame visualization simulates the warehouse environment, with poten
 - **NumPy & SciPy** (PSO and computations)  
 
 ---
-
-## Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone [your-repo-url]  
-   cd AutoRL-Zyara  
